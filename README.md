@@ -1,5 +1,3 @@
-![1348855](https://github.com/user-attachments/assets/ae0bf170-79ee-45de-9817-def9c4430f6e)
-
 ## Hi there 👋
 
 hi my name is marlin hidayat tanjung 
