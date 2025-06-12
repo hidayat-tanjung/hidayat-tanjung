@@ -1,6 +1,5 @@
 # Hello, I am Marlin Hidayat Tanjung 👋
-
-![Action  Adventure YouTube Banner in Yellow and Black Dynamic Frames Style](https://github.com/user-attachments/assets/4188e028-2fb6-44f4-a368-ff955ff32f1a)
+   ![s](https://github.com/user-attachments/assets/dd86ddc9-d4bc-4b6b-b2a6-46c1bc4b1c85)
 
 # 🚀 About Me
 . 💻 Passionate about security, coding, and automation. <br><br>. 🔍 Exploring new vulnerabilities & hacking techniques. <br><br>. 🛠️ Building open-source security tools. <br><br>
