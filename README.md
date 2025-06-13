@@ -23,6 +23,19 @@ Hi there! I’m Hidayat, a passionate tech enthusiast and aspiring ethical hacke
 </p>
 
 # Connect With me 📩
+🔭 I’m currently working on Some Company
+
+🌱 I’m currently learning Anything
+
+👯 I’m looking to collaborate on Everyone
+
+🤔 I’m looking for help with ❤
+
+💬 Ask me about Anything
+
+😄 Pronouns: Cutan
+
+⚡ Fun fact: Learn From Zero To Hero
 <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/marlin-hidayat-tanjung/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -31,6 +44,3 @@ Hi there! I’m Hidayat, a passionate tech enthusiast and aspiring ethical hacke
   <a href="marlin.hidayat7780@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-
-  
-⭐ Dari [イズミー](https://github.com/hidayat-tanjung/)
