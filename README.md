@@ -20,6 +20,8 @@ Hi there! I’m Hidayat, a passionate tech enthusiast and aspiring ethical hacke
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge" alt="Burp Suite">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
 </p>
 
 # Connect With me 📩
