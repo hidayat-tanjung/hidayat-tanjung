@@ -2,17 +2,35 @@
    ![s](https://github.com/user-attachments/assets/dd86ddc9-d4bc-4b6b-b2a6-46c1bc4b1c85)
 
 # About Me
-Hi there! I’m Hidayat, a passionate tech enthusiast and aspiring ethical hacker.
+Hi there! I’m Hidayat — a tech enthusiast, aspiring ethical hacker, and infrastructure tinkerer.
 
-💻 Code | Hack | Learn | Repeat
+💻 Code | Hack | Learn | Automate | Repeat
 
-🔭 Currently diving deep into programming & penetration testing
+🔭 Currently exploring:
 
-🌱 Learning Python, JavaScript, Ethical Hacking, and Cybersecurity
+- Ethical hacking & penetration testing
 
-🚀 Building my skills in web security, bug hunting, and automation
+- Python + JavaScript for security & automation
 
-⚡ Fun fact: I love breaking things (ethically!) to make them stronger
+- DevOps tools (Docker, Kubernetes, CI/CD)
+
+- SysAdmin essentials (Linux, networking, cloud infra)
+
+🌱 Growing in:
+
+- Web security & bug hunting
+
+- Cloud/DevOps (AWS, Terraform, Ansible)
+
+- System hardening & defensive security
+
+🚀 Building:
+
+- Ethical hacking labs & scripts
+
+- Homelab projects (self-hosted apps, monitoring, automation)
+
+- Secure, scalable infrastructure (because everything runs on something!)
 
 # Tools
 <p align="left">
@@ -38,6 +56,9 @@ Hi there! I’m Hidayat, a passionate tech enthusiast and aspiring ethical hacke
 😄 Pronouns: Cutan
 
 ⚡ Fun fact: Learn From Zero To Hero
+
+_"Let’s chat about infosec, automation, or why Linux is life!" 🐧_
+
 <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/marlin-hidayat-tanjung/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
