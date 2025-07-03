@@ -2,35 +2,16 @@
    ![s](https://github.com/user-attachments/assets/dd86ddc9-d4bc-4b6b-b2a6-46c1bc4b1c85)
 
 # About Me
-Hi there! I’m Hidayat — a tech enthusiast, aspiring ethical hacker, and infrastructure tinkerer.
 
-💻 Code | Hack | Learn | Automate | Repeat
+⚡ Ethical Hacker | DevOps Alchemist | Automation Sorcerer
 
-🔭 Currently exploring:
+💻 Code → Hack → Learn → Automate → Repeat
 
-- Ethical hacking & penetration testing
+🔓 Breaks systems (ethically). Builds them tougher.
 
-- Python + JavaScript for security & automation
+🐧 Python | Linux | Cloud Architect | Security Obsessed
 
-- DevOps tools (Docker, Kubernetes, CI/CD)
-
-- SysAdmin essentials (Linux, networking, cloud infra)
-
-🌱 Growing in:
-
-- Web security & bug hunting
-
-- Cloud/DevOps (AWS, Terraform, Ansible)
-
-- System hardening & defensive security
-
-🚀 Building:
-
-- Ethical hacking labs & scripts
-
-- Homelab projects (self-hosted apps, monitoring, automation)
-
-- Secure, scalable infrastructure (because everything runs on something!)
+🌪️ Turning chaos into scalable infrastructure—one script at a time.
 
 # Tools
 <p align="left">
