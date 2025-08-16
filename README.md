@@ -1,50 +1,61 @@
-# Hello, I am Marlin Hidayat Tanjung 👋
-   ![s](https://github.com/user-attachments/assets/dd86ddc9-d4bc-4b6b-b2a6-46c1bc4b1c85)
+# 🚀 Hello, I'm Marlin Hidayat Tanjung!  
+**IT Support Specialist | Network Troubleshooter | DevOps Enthusiast**  
 
-# About Me
+📍 Gunungsitoli, Indonesia | 📧 marlin.hidayat7780@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/marlin-hidayat-tanjung/)  
 
-⚡ Ethical Hacker | DevOps Alchemist | Automation Sorcerer
+---
 
-💻 Code → Hack → Learn → Automate → Repeat
+### 🛠️ Technical Skills  
+- **Networking**: LAN/WAN, Router/Switch, Firewall, CCTV Systems  
+- **System Admin**: Linux (Ubuntu/CentOS), Windows Server  
+- **DevOps Tools**: Docker, Jenkins, CI/CD Basics  
+- **Banking Tech**: EDC Maintenance, Flazz/BRI EDC Tools  
+- **Security**: Burp Suite, Basic Penetration Testing
 
-🔓 Breaks systems (ethically). Builds them tougher.
+---
 
-🐧 Python | Linux | Cloud Architect | Security Obsessed
+### 🛠️ TECHNICAL HIGHLIGHTS
+- Automated EDC maintenance processes saving 15+ hours/week  
+- Designed network infrastructure for 50+ CCTV endpoints  
+- Reduced system downtime by 30% through proactive monitoring  
 
-🌪️ Turning chaos into scalable infrastructure—one script at a time.
+---
 
-# Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
-</p>
+### 🏆 Featured Projects  
+#### 1. **EDC Maintenance Automation**  
+- Preventive maintenance of EDC terminals (Flazz/BRILink)  
+- Hardware troubleshooting: card reader, printer, power supply issues  
+- Firmware/software upgrades for payment systems  
+- Thermal roll supply chain management  
+- End-to-end EDC deployment (installation to merchant training)
+- EDC Configuration Suite, Payment Gateway Interfaces
+- Logic analyzers, Multimeter testing
 
-# Connect With me 📩
-🔭 I’m currently working on Some Company
+#### 2. **CCTV Network Deployment**  
+- Led installation of 50+ PC Mini units for BRI's CCTV CRM system  
+- Implemented bulk configuration using Ansible playbooks  
+- Tech: Ansible, Linux Shell Scripting, IP Camera Systems  
 
-🌱 I’m currently learning Anything
+#### 3. **Network Infrastructure Optimization**  
+- Redesigned LAN topology for PT Bringin Inti Teknologi  
+- Improved network reliability by implementing VLAN segmentation  
+- Tech: Cisco Switches, PfSense Firewall
 
-👯 I’m looking to collaborate on Everyone
+---
 
-🤔 I’m looking for help with ❤
+### 📚 Certifications  
 
-💬 Ask me about Anything
+*(Sertifikat lengkap bisa dilihat di [Portfolio Saya](https://hidayat-tanjung.github.io/hidayat-tanjung.io/))*
 
-😄 Pronouns: Cutan
+---
 
-⚡ Fun fact: Learn From Zero To Hero
+### 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hidayat-tanjung&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hidayat-tanjung&layout=compact)
 
-_"Let’s chat about infosec, automation, or why Linux is life!" 🐧_
+---
 
-<!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/marlin-hidayat-tanjung/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <!-- Email -->
-  <a href="marlin.hidayat7780@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+### 🤝 Let's Connect!  
+- 💼 LinkedIn: [Marlin Hidayat Tanjung](https://www.linkedin.com/in/marlin-hidayat-tanjung/)  
+- 🌐 Website: [hidayat-tanjung.io](https://hidayat-tanjung.github.io/hidayat-tanjung.io/)  
+- 📩 Email: marlin.hidayat7780@gmail.com  
