@@ -1,6 +1,6 @@
 # 🚀 Hello, I'm Marlin Hidayat Tanjung  
 **IT Support Specialist | Network Engineer | Security & Automation Enthusiast**  
-<img width="2000" height="2000" alt="1000296186" src="https://github.com/user-attachments/assets/edac0468-601c-457c-a5cc-b43d5b80dde3" />
+<img width="500" height="500" alt="1000296439" src="https://github.com/user-attachments/assets/b641811b-ec30-4f58-8f7e-321a89e03817" />
 
 📍 Gunungsitoli, Indonesia | 📧 marlin.hidayat7780@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/marlin-hidayat-tanjung/)  
 
@@ -106,5 +106,5 @@ I am ready to work with any team to **build, secure, and automate digital infras
 
 ---
 
-**イズミー Active – 2050 Style**  
+**イズミー Active – xixixi Style**  
 🖥️👻🔥
