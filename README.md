@@ -92,12 +92,20 @@ I am ready to work with any team to **build, secure, and automate digital infras
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hidayat-tanjung&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
 ## 🤝 Let's Connect!  
-- 💼 LinkedIn: [Marlin Hidayat Tanjung](https://www.linkedin.com/in/marlin-hidayat-tanjung/)  
-- 🌐 Website: [hidayat-tanjung.io](https://hidayat-tanjung.github.io/hidayat-tanjung.io/)  
-- 📩 Email: marlin.hidayat7780@gmail.com  
 
+<a href="https://www.linkedin.com/in/marlin-hidayat-tanjung/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://m.youtube.com/channel/UCskI7xL3sdS1t0kcb22NQXQ" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://hidayat-tanjung.github.io/hidayat-tanjung.io/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-Website-181717?style=flat-square&logo=github&logoColor=white" alt="Website">
+</a>
+<a href="mailto:marlin.hidayat7780@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
 ---
 
 ## 📌 CLOSING NOTE
