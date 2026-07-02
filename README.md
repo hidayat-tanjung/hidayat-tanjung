@@ -94,17 +94,17 @@ I am ready to work with any team to **build, secure, and automate digital infras
 ---
 ## 🤝 Let's Connect!  
 
-<a href="https://www.linkedin.com/in/marlin-hidayat-tanjung/" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/marlin-hidayat-tanjung/" target="_blank" style="margin: 0 10px; display: inline-block;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));">
 </a>
-<a href="https://m.youtube.com/channel/UCskI7xL3sdS1t0kcb22NQXQ" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+<a href="https://m.youtube.com/channel/UCskI7xL3sdS1t0kcb22NQXQ" target="_blank" style="margin: 0 10px; display: inline-block;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="36" height="36" alt="YouTube" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));">
 </a>
-<a href="https://hidayat-tanjung.github.io/hidayat-tanjung.io/" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Website-181717?style=flat-square&logo=github&logoColor=white" alt="Website">
+<a href="https://hidayat-tanjung.github.io/hidayat-tanjung.io/" target="_blank" style="margin: 0 10px; display: inline-block;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="36" height="36" alt="Website" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));">
 </a>
-<a href="mailto:marlin.hidayat7780@gmail.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+<a href="mailto:marlin.hidayat7780@gmail.com" target="_blank" style="margin: 0 10px; display: inline-block;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="36" height="36" alt="Email" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));">
 </a>
 ---
 
