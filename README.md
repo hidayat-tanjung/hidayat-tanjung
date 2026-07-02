@@ -16,6 +16,7 @@
 | **DevOps & Automation** | Docker, Jenkins, Ansible, CI/CD, Git, Python Scripting |
 | **Banking Tech (EDC)** | Flazz, BRILink, EDC Configuration, Payment Gateway Integration |
 | **Hardware & IoT** | CCTV Systems, IP Cameras, Multimeter, Logic Analyzer, Thermal Printers |
+| **Fiber Optic Networks (FTTH)** | ODC, ODP, ODF, OLT, ONT, Splitter, Feeder Cable, Distribution Cable, Drop Cable, Patchcord, Splicing, Indoor/Outdoor Installation |
 
 ---
 
