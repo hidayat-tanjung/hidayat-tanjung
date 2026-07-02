@@ -85,13 +85,15 @@ I am ready to work with any team to **build, secure, and automate digital infras
 
 ---
 
-### 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hidayat-tanjung&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hidayat-tanjung&layout=compact)
+## 📊 GitHub Stats  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hidayat-tanjung&theme=radical)](https://git.io/streak-stats)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hidayat-tanjung&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🤝 Let's Connect!  
+## 🤝 Let's Connect!  
 - 💼 LinkedIn: [Marlin Hidayat Tanjung](https://www.linkedin.com/in/marlin-hidayat-tanjung/)  
 - 🌐 Website: [hidayat-tanjung.io](https://hidayat-tanjung.github.io/hidayat-tanjung.io/)  
 - 📩 Email: marlin.hidayat7780@gmail.com  
