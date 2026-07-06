@@ -2,7 +2,7 @@
 **IT Support Specialist | Sysadmin Engineer | Security & Automation Enthusiast**  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=Linux+Enthusiast;Security+Automation;Infrastructure+Builder;Open+to+Work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=Linux+DevOps;Cloud+Automation;Infrastructure+as+Code;Open+to+Work" />
 </p>
 
 📍 Gunungsitoli, Indonesia | 📧 marlin.hidayat7780@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/marlin-hidayat-tanjung/)  
