@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=Linux+DevOps;Cloud+Automation;Infrastructure+as+Code;Open+to+Work" />
 </p>
 
-📍 Gunungsitoli, Indonesia | 📧 marlin.hidayat7780@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/marlin-hidayat-tanjung/)  
+📍 Gunungsitoli, Indonesia | 📧 izumy300@proton.me | 🔗 [LinkedIn](https://www.linkedin.com/in/marlin-hidayat-tanjung/)  
 
 <p align="center">
   <a href="mailto:marlin.hidayat7780@gmail.com">
