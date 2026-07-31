@@ -8,7 +8,7 @@
 📍 Gunungsitoli, Indonesia | 📧 izumy300@proton.me | 🔗 [LinkedIn](https://www.linkedin.com/in/marlin-hidayat-tanjung/)  
 
 <p align="center">
-  <a href="mailto:marlin.hidayat7780@gmail.com">
+  <a href="mailto:izumy300@proton.me">
     <img src="https://img.shields.io/badge/Open%20to%20Work-00BFFF?style=for-the-badge&logo=checkmark&logoColor=white" />
   </a>
 </p>
