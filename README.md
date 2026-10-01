@@ -40,8 +40,6 @@
 
 ## 🗂️ Featured Repositories
 
-## 🗂️ Featured Repositories
-
 | Repo | Deskripsi |
 |------|-----------|
 | [**LinuxPloiter**](https://github.com/username/linuxploiter) | 🛡️ Web-based bug bounty companion & reconnaissance workstation |
