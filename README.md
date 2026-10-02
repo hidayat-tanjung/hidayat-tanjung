@@ -100,7 +100,7 @@ Saya buka **GitHub Discussions** untuk:
 - 📚 Rekomendasi belajar
 - 💼 Jual/beli web app
 
-👉 [**Masuk ke Discussions**](https://github.com/username/username/discussions)
+👉 [**Masuk ke Discussions**](https://discord.com/invite/aJvSAqDcQ)
 
 **Aturan komunitas:**
 1. Respect semua member
