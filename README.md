@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marlin Hidayat Tanjung
 
-**IT Support · Sysadmin · Cyber Security Educator · AI & Web App Builder**
+<img width="800" height="600" alt="Halloween SmashDowns!" src="https://github.com/user-attachments/assets/5d11b7a2-6871-474c-bdfb-4094f7fd3fa5" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=18&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=Cyber+Security+Education;AI+Web+App+Builder;Linux+%26+DevOps;Open+Source+%26+Community" />
