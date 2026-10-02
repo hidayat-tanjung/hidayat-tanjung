@@ -7,7 +7,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=18&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=Cyber+Security+Education;AI+Web+App+Builder;Linux+%26+DevOps;Open+Source+%26+Community" />
 </p>
-📍 Gunungsitoli, Indonesia · 📧 izumy300@proton.me · 🔗 [LinkedIn](https://www.linkedin.com/in/marlin-hidayat-tanjung/)
+
+<p align="center">
+  📍 Gunungsitoli, Indonesia · 📧 <a href="mailto:izumy300@proton.me">izumy300@proton.me</a> · 🔗 <a href="https://www.linkedin.com/in/marlin-hidayat-tanjung/">LinkedIn</a>
+</p>
 
 ---
 
@@ -47,8 +50,15 @@
 | [**AI Web Builder**](https://github.com/username/ai-web-builder) | 🤖 Template & tools untuk bikin web app berbasis AI |
 | [**CyberSec Notes**](https://github.com/username/cybersec-notes) | 📚 Catatan belajar cyber security (legal & ethical) |
 | [**Awesome Security**](https://github.com/username/awesome-security) | 🌟 Curated list tools security legal |
-| [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/invite-code-lo) | 💬 Forum diskusi komunitas |
-| [![Medium](https://img.shields.io/badge/Medium-Read%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@username) | 📝 Catatan belajar cyber security di Medium |
+
+<p align="center">
+  <a href="https://discord.gg/invite-code-lo">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@username">
+    <img src="https://img.shields.io/badge/Medium-Read%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -60,7 +70,7 @@ Saya jual **aplikasi web digital** siap pakai:
 - 🤖 AI-powered apps (chatbot, automation)
 - 🔐 Security audit dashboard
 
-📩 **Order / inquiry:** izumy300@proton.me
+📩 **Order / inquiry:** [izumy300@proton.me](mailto:izumy300@proton.me)
 
 ---
 
@@ -114,9 +124,17 @@ Saya buka **GitHub Discussions** untuk:
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hidayat-tanjung&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=hidayat-tanjung&theme=radical&border=00FF00" />
+  </a>
+</p>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hidayat-tanjung&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hidayat-tanjung&theme=radical&color=00FF00&line=00FF00&point=FFFFFF" />
+  </a>
+</p>
 
 ---
 
@@ -126,7 +144,7 @@ Saya buka **GitHub Discussions** untuk:
 > *I'm not just a technician — I'm a system architect who quietly guards the digital gates.*
 > *And I never work alone — I grow with the team."*
 
----
-
-**イズミー Active — xixixi Style**
-🖥️👻🔥
+<p align="center">
+  <b>イズミー Active — xixixi Style</b><br/>
+  🖥️👻🔥
+</p>
