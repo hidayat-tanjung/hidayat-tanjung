@@ -46,9 +46,9 @@
 
 | Repo | Deskripsi |
 |------|-----------|
-| [**LinuxPloiter**](https://github.com/username/linuxploiter) | 🛡️ Web-based bug bounty companion & reconnaissance workstation |
-| [**AI Web Builder**](https://github.com/username/ai-web-builder) | 🤖 Template & tools untuk bikin web app berbasis AI |
-| [**CyberSec Notes**](https://github.com/username/cybersec-notes) | 📚 Catatan belajar cyber security (legal & ethical) |
+| [**LinuxPloiter**](https://hidayat-tanjung-io.vercel.app/linuxploiter) | 🛡️ Web-based bug bounty companion & reconnaissance workstation |
+| [**AI Web Builder**](https://github.com/hidayat-tanjung/-HERMES-CYBER-KIT) | 🤖 Template & tools untuk bikin web app berbasis AI |
+| [**CyberSec Notes**](https://github.com/hidayat-tanjung/hacking-resources-main/tree/main) | 📚 Catatan belajar cyber security (legal & ethical) |
 | [**Awesome Security**](https://github.com/username/awesome-security) | 🌟 Curated list tools security legal |
 
 <p align="center">
