@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/f4809a0c-b134-424d-a6cd-0e6ca6a5bc7e" alt="Banner" style="max-width: 100%; height: auto; width: 600px;" />
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Founder+of+InfraSec+ID;Open+Source+Contributor;AI+Web+App+Builder;Linux+%26+DevOps" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Founder+of+InfraSec+ID;Open+Source+Contributor;AI+Web+App+Builder;Linux+%26+DevOps" />
 </p>
 
 ---
